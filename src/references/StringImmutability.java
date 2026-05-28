@@ -1,3 +1,5 @@
+package references;
+
 public class StringImmutability {
 
     public static void main(String[] args) {

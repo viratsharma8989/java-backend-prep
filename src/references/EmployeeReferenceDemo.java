@@ -1,12 +1,14 @@
-public class Employee {
+package references;
+
+public class EmployeeReferenceDemo {
 
     private String name;
     private int id;
 
-    public Employee(){
+    public EmployeeReferenceDemo(){
     }
 
-    public Employee(String name, int id) {
+    public EmployeeReferenceDemo(String name, int id) {
         this.name = name;
         this.id = id;
     }
